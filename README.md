@@ -12,6 +12,6 @@
 
 
 ### Prompt tips
-- Keep the Instructions Simple
+- Keep Instructions Simple
 <img width="1430" height="800" alt="7857810a-169d-4e0e-b621-241a9a987371" src="https://github.com/user-attachments/assets/82a5a69c-de0b-4b28-b6c2-ed5a1b1a9959" />
 
