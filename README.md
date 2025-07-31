@@ -6,6 +6,9 @@
 
 ### Prompt structure
 
-The [components](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies#components-of-a-prompt)(opens in a new tab) of a prompt can be combined to generate more effective responses.
+- The [components](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies#components-of-a-prompt)(opens in a new tab) of a prompt can be combined to generate more effective responses.
+- Here's an example of a prompt, mapped to components:
+<img width="1246" height="952" alt="72d229df-e881-4f48-908c-43063277ea96" src="https://github.com/user-attachments/assets/a0ded214-02af-4ac0-bddb-e08c11a52099" />
+
 
 ### Prompt tips
